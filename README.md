@@ -1,5 +1,5 @@
 # RDWeb_BruteForce
-Brute Force RD Web Access Portal.Requires to know AD name which can be obtained using this technique https://raxis.com/blog/rd-web-access-vulnerability/
+Brute Force RD Web Access Portal. It Requires to know AD name which can be obtained using this technique https://raxis.com/blog/rd-web-access-vulnerability/
 
 Place the following 2 files in the directory running:
 1)AD_users.txt (This file contains usernames list without domain name e.g 'admin1')
